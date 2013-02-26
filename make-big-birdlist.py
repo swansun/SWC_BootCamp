@@ -1,5 +1,7 @@
 #!/home/eswanson/anaconda/bin/python
 
+# Author Titus Brown
+# Editor eswanson
 # This generates a random list of birds.
 
 birdnames = """\
