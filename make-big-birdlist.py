@@ -1,5 +1,7 @@
 #!/home/eswanson/anaconda/bin/python
 
+# This generates a random list of birds.
+
 birdnames = """\
 Common Teal
 Long-tailed Duck
